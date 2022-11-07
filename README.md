@@ -3,8 +3,8 @@
 ### Team Members:
       1.	Hemanth Reddy Yerramreddy 
       2.	Chandrakanth Mandalapu
-      3.	Mani Renukuntla
-      4.	Sathvik Reddy Gutha
+      3.	Narendar Reddy Nelakurthi
+      4.	Sri Sai Harsha Chakravarthula
       
 ### Idea description:
 
