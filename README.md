@@ -4,7 +4,7 @@
       1.	Hemanth Reddy Yerramreddy 
       2.	Chandrakanth Mandalapu
       3.	Narendar Reddy Nelakurthi
-      4.	Sri Sai Harsha Chakravarthula
+      4.	Sai Sri Harsha Chakravarthula
       
 ### Idea description:
 
